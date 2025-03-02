@@ -11,7 +11,6 @@
 using System;
 using System.Reflection;
 
-[assembly: Microsoft.AspNetCore.Identity.UI.UIFrameworkAttribute("Bootstrap5")]
 [assembly: Microsoft.Extensions.Configuration.UserSecrets.UserSecretsIdAttribute("aspnet-HealchCheck-B3E9639F-0213-4D57-8D86-B468E8F59660")]
 [assembly: System.Reflection.AssemblyCompanyAttribute("HealchCheck.Web")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
