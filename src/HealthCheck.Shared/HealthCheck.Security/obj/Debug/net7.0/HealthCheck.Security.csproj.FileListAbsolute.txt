@@ -1,0 +1,12 @@
+D:\Projects\GitProject\HealthCheck\src\HealthCheck.Shared\HealthCheck.Security\bin\Debug\net7.0\HealthCheck.Security.deps.json
+D:\Projects\GitProject\HealthCheck\src\HealthCheck.Shared\HealthCheck.Security\bin\Debug\net7.0\HealthCheck.Security.dll
+D:\Projects\GitProject\HealthCheck\src\HealthCheck.Shared\HealthCheck.Security\bin\Debug\net7.0\HealthCheck.Security.pdb
+D:\Projects\GitProject\HealthCheck\src\HealthCheck.Shared\HealthCheck.Security\obj\Debug\net7.0\HealthCheck.Security.csproj.AssemblyReference.cache
+D:\Projects\GitProject\HealthCheck\src\HealthCheck.Shared\HealthCheck.Security\obj\Debug\net7.0\HealthCheck.Security.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\GitProject\HealthCheck\src\HealthCheck.Shared\HealthCheck.Security\obj\Debug\net7.0\HealthCheck.Security.AssemblyInfoInputs.cache
+D:\Projects\GitProject\HealthCheck\src\HealthCheck.Shared\HealthCheck.Security\obj\Debug\net7.0\HealthCheck.Security.AssemblyInfo.cs
+D:\Projects\GitProject\HealthCheck\src\HealthCheck.Shared\HealthCheck.Security\obj\Debug\net7.0\HealthCheck.Security.csproj.CoreCompileInputs.cache
+D:\Projects\GitProject\HealthCheck\src\HealthCheck.Shared\HealthCheck.Security\obj\Debug\net7.0\HealthCheck.Security.dll
+D:\Projects\GitProject\HealthCheck\src\HealthCheck.Shared\HealthCheck.Security\obj\Debug\net7.0\refint\HealthCheck.Security.dll
+D:\Projects\GitProject\HealthCheck\src\HealthCheck.Shared\HealthCheck.Security\obj\Debug\net7.0\HealthCheck.Security.pdb
+D:\Projects\GitProject\HealthCheck\src\HealthCheck.Shared\HealthCheck.Security\obj\Debug\net7.0\ref\HealthCheck.Security.dll

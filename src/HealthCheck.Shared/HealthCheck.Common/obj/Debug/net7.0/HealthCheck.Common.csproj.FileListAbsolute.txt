@@ -1,0 +1,60 @@
+D:\Projects\GitProject\HealchCheck\HealthCheck.Shared\Common\HealthCheck.Common\bin\Debug\net7.0\HealthCheck.Common.deps.json
+D:\Projects\GitProject\HealchCheck\HealthCheck.Shared\Common\HealthCheck.Common\bin\Debug\net7.0\HealthCheck.Common.dll
+D:\Projects\GitProject\HealchCheck\HealthCheck.Shared\Common\HealthCheck.Common\bin\Debug\net7.0\HealthCheck.Common.pdb
+D:\Projects\GitProject\HealchCheck\HealthCheck.Shared\Common\HealthCheck.Common\obj\Debug\net7.0\HealthCheck.Common.csproj.AssemblyReference.cache
+D:\Projects\GitProject\HealchCheck\HealthCheck.Shared\Common\HealthCheck.Common\obj\Debug\net7.0\HealthCheck.Common.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\GitProject\HealchCheck\HealthCheck.Shared\Common\HealthCheck.Common\obj\Debug\net7.0\HealthCheck.Common.AssemblyInfoInputs.cache
+D:\Projects\GitProject\HealchCheck\HealthCheck.Shared\Common\HealthCheck.Common\obj\Debug\net7.0\HealthCheck.Common.AssemblyInfo.cs
+D:\Projects\GitProject\HealchCheck\HealthCheck.Shared\Common\HealthCheck.Common\obj\Debug\net7.0\HealthCheck.Common.csproj.CoreCompileInputs.cache
+D:\Projects\GitProject\HealchCheck\HealthCheck.Shared\Common\HealthCheck.Common\obj\Debug\net7.0\HealthCheck.Common.dll
+D:\Projects\GitProject\HealchCheck\HealthCheck.Shared\Common\HealthCheck.Common\obj\Debug\net7.0\refint\HealthCheck.Common.dll
+D:\Projects\GitProject\HealchCheck\HealthCheck.Shared\Common\HealthCheck.Common\obj\Debug\net7.0\HealthCheck.Common.pdb
+D:\Projects\GitProject\HealchCheck\HealthCheck.Shared\Common\HealthCheck.Common\obj\Debug\net7.0\ref\HealthCheck.Common.dll
+D:\Projects\GitProject\HealchCheck\src\HealthCheck.Shared\Common\HealthCheck.Common\bin\Debug\net7.0\HealthCheck.Common.deps.json
+D:\Projects\GitProject\HealchCheck\src\HealthCheck.Shared\Common\HealthCheck.Common\bin\Debug\net7.0\HealthCheck.Common.dll
+D:\Projects\GitProject\HealchCheck\src\HealthCheck.Shared\Common\HealthCheck.Common\bin\Debug\net7.0\HealthCheck.Common.pdb
+D:\Projects\GitProject\HealchCheck\src\HealthCheck.Shared\Common\HealthCheck.Common\obj\Debug\net7.0\HealthCheck.Common.csproj.AssemblyReference.cache
+D:\Projects\GitProject\HealchCheck\src\HealthCheck.Shared\Common\HealthCheck.Common\obj\Debug\net7.0\HealthCheck.Common.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\GitProject\HealchCheck\src\HealthCheck.Shared\Common\HealthCheck.Common\obj\Debug\net7.0\HealthCheck.Common.AssemblyInfoInputs.cache
+D:\Projects\GitProject\HealchCheck\src\HealthCheck.Shared\Common\HealthCheck.Common\obj\Debug\net7.0\HealthCheck.Common.AssemblyInfo.cs
+D:\Projects\GitProject\HealchCheck\src\HealthCheck.Shared\Common\HealthCheck.Common\obj\Debug\net7.0\HealthCheck.Common.csproj.CoreCompileInputs.cache
+D:\Projects\GitProject\HealchCheck\src\HealthCheck.Shared\Common\HealthCheck.Common\obj\Debug\net7.0\HealthCheck.Common.dll
+D:\Projects\GitProject\HealchCheck\src\HealthCheck.Shared\Common\HealthCheck.Common\obj\Debug\net7.0\refint\HealthCheck.Common.dll
+D:\Projects\GitProject\HealchCheck\src\HealthCheck.Shared\Common\HealthCheck.Common\obj\Debug\net7.0\HealthCheck.Common.pdb
+D:\Projects\GitProject\HealchCheck\src\HealthCheck.Shared\Common\HealthCheck.Common\obj\Debug\net7.0\ref\HealthCheck.Common.dll
+D:\Projects\GitProject\New folder\HealthCheck\src\HealthCheck.Shared\Common\HealthCheck.Common\bin\Debug\net7.0\HealthCheck.Common.deps.json
+D:\Projects\GitProject\New folder\HealthCheck\src\HealthCheck.Shared\Common\HealthCheck.Common\bin\Debug\net7.0\HealthCheck.Common.dll
+D:\Projects\GitProject\New folder\HealthCheck\src\HealthCheck.Shared\Common\HealthCheck.Common\bin\Debug\net7.0\HealthCheck.Common.pdb
+D:\Projects\GitProject\New folder\HealthCheck\src\HealthCheck.Shared\Common\HealthCheck.Common\obj\Debug\net7.0\HealthCheck.Common.csproj.AssemblyReference.cache
+D:\Projects\GitProject\New folder\HealthCheck\src\HealthCheck.Shared\Common\HealthCheck.Common\obj\Debug\net7.0\HealthCheck.Common.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\GitProject\New folder\HealthCheck\src\HealthCheck.Shared\Common\HealthCheck.Common\obj\Debug\net7.0\HealthCheck.Common.AssemblyInfoInputs.cache
+D:\Projects\GitProject\New folder\HealthCheck\src\HealthCheck.Shared\Common\HealthCheck.Common\obj\Debug\net7.0\HealthCheck.Common.AssemblyInfo.cs
+D:\Projects\GitProject\New folder\HealthCheck\src\HealthCheck.Shared\Common\HealthCheck.Common\obj\Debug\net7.0\HealthCheck.Common.csproj.CoreCompileInputs.cache
+D:\Projects\GitProject\New folder\HealthCheck\src\HealthCheck.Shared\Common\HealthCheck.Common\obj\Debug\net7.0\HealthCheck.Common.dll
+D:\Projects\GitProject\New folder\HealthCheck\src\HealthCheck.Shared\Common\HealthCheck.Common\obj\Debug\net7.0\refint\HealthCheck.Common.dll
+D:\Projects\GitProject\New folder\HealthCheck\src\HealthCheck.Shared\Common\HealthCheck.Common\obj\Debug\net7.0\HealthCheck.Common.pdb
+D:\Projects\GitProject\New folder\HealthCheck\src\HealthCheck.Shared\Common\HealthCheck.Common\obj\Debug\net7.0\ref\HealthCheck.Common.dll
+D:\Projects\GitProject\HealthCheck\src\HealthCheck.Shared\Common\HealthCheck.Common\bin\Debug\net7.0\HealthCheck.Common.deps.json
+D:\Projects\GitProject\HealthCheck\src\HealthCheck.Shared\Common\HealthCheck.Common\bin\Debug\net7.0\HealthCheck.Common.dll
+D:\Projects\GitProject\HealthCheck\src\HealthCheck.Shared\Common\HealthCheck.Common\bin\Debug\net7.0\HealthCheck.Common.pdb
+D:\Projects\GitProject\HealthCheck\src\HealthCheck.Shared\Common\HealthCheck.Common\obj\Debug\net7.0\HealthCheck.Common.csproj.AssemblyReference.cache
+D:\Projects\GitProject\HealthCheck\src\HealthCheck.Shared\Common\HealthCheck.Common\obj\Debug\net7.0\HealthCheck.Common.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\GitProject\HealthCheck\src\HealthCheck.Shared\Common\HealthCheck.Common\obj\Debug\net7.0\HealthCheck.Common.AssemblyInfoInputs.cache
+D:\Projects\GitProject\HealthCheck\src\HealthCheck.Shared\Common\HealthCheck.Common\obj\Debug\net7.0\HealthCheck.Common.AssemblyInfo.cs
+D:\Projects\GitProject\HealthCheck\src\HealthCheck.Shared\Common\HealthCheck.Common\obj\Debug\net7.0\HealthCheck.Common.csproj.CoreCompileInputs.cache
+D:\Projects\GitProject\HealthCheck\src\HealthCheck.Shared\Common\HealthCheck.Common\obj\Debug\net7.0\HealthCheck.Common.dll
+D:\Projects\GitProject\HealthCheck\src\HealthCheck.Shared\Common\HealthCheck.Common\obj\Debug\net7.0\refint\HealthCheck.Common.dll
+D:\Projects\GitProject\HealthCheck\src\HealthCheck.Shared\Common\HealthCheck.Common\obj\Debug\net7.0\HealthCheck.Common.pdb
+D:\Projects\GitProject\HealthCheck\src\HealthCheck.Shared\Common\HealthCheck.Common\obj\Debug\net7.0\ref\HealthCheck.Common.dll
+D:\Projects\GitProject\HealthCheck\src\HealthCheck.Shared\HealthCheck.Common\bin\Debug\net7.0\HealthCheck.Common.deps.json
+D:\Projects\GitProject\HealthCheck\src\HealthCheck.Shared\HealthCheck.Common\bin\Debug\net7.0\HealthCheck.Common.dll
+D:\Projects\GitProject\HealthCheck\src\HealthCheck.Shared\HealthCheck.Common\bin\Debug\net7.0\HealthCheck.Common.pdb
+D:\Projects\GitProject\HealthCheck\src\HealthCheck.Shared\HealthCheck.Common\obj\Debug\net7.0\HealthCheck.Common.csproj.AssemblyReference.cache
+D:\Projects\GitProject\HealthCheck\src\HealthCheck.Shared\HealthCheck.Common\obj\Debug\net7.0\HealthCheck.Common.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\GitProject\HealthCheck\src\HealthCheck.Shared\HealthCheck.Common\obj\Debug\net7.0\HealthCheck.Common.AssemblyInfoInputs.cache
+D:\Projects\GitProject\HealthCheck\src\HealthCheck.Shared\HealthCheck.Common\obj\Debug\net7.0\HealthCheck.Common.AssemblyInfo.cs
+D:\Projects\GitProject\HealthCheck\src\HealthCheck.Shared\HealthCheck.Common\obj\Debug\net7.0\HealthCheck.Common.csproj.CoreCompileInputs.cache
+D:\Projects\GitProject\HealthCheck\src\HealthCheck.Shared\HealthCheck.Common\obj\Debug\net7.0\HealthCheck.Common.dll
+D:\Projects\GitProject\HealthCheck\src\HealthCheck.Shared\HealthCheck.Common\obj\Debug\net7.0\refint\HealthCheck.Common.dll
+D:\Projects\GitProject\HealthCheck\src\HealthCheck.Shared\HealthCheck.Common\obj\Debug\net7.0\HealthCheck.Common.pdb
+D:\Projects\GitProject\HealthCheck\src\HealthCheck.Shared\HealthCheck.Common\obj\Debug\net7.0\ref\HealthCheck.Common.dll

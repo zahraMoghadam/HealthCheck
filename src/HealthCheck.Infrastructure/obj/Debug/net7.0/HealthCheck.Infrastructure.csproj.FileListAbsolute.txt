@@ -1,0 +1,12 @@
+D:\Projects\GitProject\HealthCheck\src\HealthCheck.Infrastructure\bin\Debug\net7.0\HealthCheck.Infrastructure.deps.json
+D:\Projects\GitProject\HealthCheck\src\HealthCheck.Infrastructure\bin\Debug\net7.0\HealthCheck.Infrastructure.dll
+D:\Projects\GitProject\HealthCheck\src\HealthCheck.Infrastructure\bin\Debug\net7.0\HealthCheck.Infrastructure.pdb
+D:\Projects\GitProject\HealthCheck\src\HealthCheck.Infrastructure\obj\Debug\net7.0\HealthCheck.Infrastructure.csproj.AssemblyReference.cache
+D:\Projects\GitProject\HealthCheck\src\HealthCheck.Infrastructure\obj\Debug\net7.0\HealthCheck.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\GitProject\HealthCheck\src\HealthCheck.Infrastructure\obj\Debug\net7.0\HealthCheck.Infrastructure.AssemblyInfoInputs.cache
+D:\Projects\GitProject\HealthCheck\src\HealthCheck.Infrastructure\obj\Debug\net7.0\HealthCheck.Infrastructure.AssemblyInfo.cs
+D:\Projects\GitProject\HealthCheck\src\HealthCheck.Infrastructure\obj\Debug\net7.0\HealthCheck.Infrastructure.csproj.CoreCompileInputs.cache
+D:\Projects\GitProject\HealthCheck\src\HealthCheck.Infrastructure\obj\Debug\net7.0\HealthCheck.Infrastructure.dll
+D:\Projects\GitProject\HealthCheck\src\HealthCheck.Infrastructure\obj\Debug\net7.0\refint\HealthCheck.Infrastructure.dll
+D:\Projects\GitProject\HealthCheck\src\HealthCheck.Infrastructure\obj\Debug\net7.0\HealthCheck.Infrastructure.pdb
+D:\Projects\GitProject\HealthCheck\src\HealthCheck.Infrastructure\obj\Debug\net7.0\ref\HealthCheck.Infrastructure.dll

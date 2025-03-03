@@ -1,0 +1,12 @@
+D:\Projects\GitProject\HealthCheck\src\HealthCheck.Shared\HealthCheck.Monitoring\bin\Debug\net7.0\HealthCheck.Monitoring.deps.json
+D:\Projects\GitProject\HealthCheck\src\HealthCheck.Shared\HealthCheck.Monitoring\bin\Debug\net7.0\HealthCheck.Monitoring.dll
+D:\Projects\GitProject\HealthCheck\src\HealthCheck.Shared\HealthCheck.Monitoring\bin\Debug\net7.0\HealthCheck.Monitoring.pdb
+D:\Projects\GitProject\HealthCheck\src\HealthCheck.Shared\HealthCheck.Monitoring\obj\Debug\net7.0\HealthCheck.Monitoring.csproj.AssemblyReference.cache
+D:\Projects\GitProject\HealthCheck\src\HealthCheck.Shared\HealthCheck.Monitoring\obj\Debug\net7.0\HealthCheck.Monitoring.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\GitProject\HealthCheck\src\HealthCheck.Shared\HealthCheck.Monitoring\obj\Debug\net7.0\HealthCheck.Monitoring.AssemblyInfoInputs.cache
+D:\Projects\GitProject\HealthCheck\src\HealthCheck.Shared\HealthCheck.Monitoring\obj\Debug\net7.0\HealthCheck.Monitoring.AssemblyInfo.cs
+D:\Projects\GitProject\HealthCheck\src\HealthCheck.Shared\HealthCheck.Monitoring\obj\Debug\net7.0\HealthCheck.Monitoring.csproj.CoreCompileInputs.cache
+D:\Projects\GitProject\HealthCheck\src\HealthCheck.Shared\HealthCheck.Monitoring\obj\Debug\net7.0\HealthCheck.Monitoring.dll
+D:\Projects\GitProject\HealthCheck\src\HealthCheck.Shared\HealthCheck.Monitoring\obj\Debug\net7.0\refint\HealthCheck.Monitoring.dll
+D:\Projects\GitProject\HealthCheck\src\HealthCheck.Shared\HealthCheck.Monitoring\obj\Debug\net7.0\HealthCheck.Monitoring.pdb
+D:\Projects\GitProject\HealthCheck\src\HealthCheck.Shared\HealthCheck.Monitoring\obj\Debug\net7.0\ref\HealthCheck.Monitoring.dll
