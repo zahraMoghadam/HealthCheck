@@ -1,6 +1,6 @@
 {
   "profiles": {
-    "HealchCheck": {
+    "SystemSentinel": {
       "commandName": "Project",
       "launchBrowser": true,
       "environmentVariables": {
