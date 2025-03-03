@@ -1,0 +1,66 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33205.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "SystemSentinel.Host", "SystemSentinel.Host", "{E18F2F3A-F01C-40AE-9289-F089FD6F8DA3}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Web", "Web", "{F80C4502-42FB-40FC-A649-6CE5F461A8D6}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SystemSentinel.Web", "src\HealthCheck.Host\Web\SystemSentinel.Web.csproj", "{AFD2711A-92EA-405D-9752-156487F2BB4D}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "SystemSentinel.Shared", "SystemSentinel.Shared", "{31BFE315-2A6A-42A4-824E-E18F84D3B2E8}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Common", "Common", "{0F4FCE44-AC25-41E3-8D68-C63EFD4E8007}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HealthCheck.Common", "src\HealthCheck.Shared\Common\HealthCheck.Common\HealthCheck.Common.csproj", "{E0473417-6E1E-4E12-A5FB-C774F7EF8BAC}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Security", "Security", "{4B0D6150-856B-4642-86E3-ADDBD3A13BE8}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Monitoring", "Monitoring", "{60D8C82A-A8E1-49E5-8590-1D5CC4421CF0}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "SystemSentinel.Modules", "SystemSentinel.Modules", "{E2196A4D-1AAF-4B68-B743-7337895ADAFC}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Notification", "Notification", "{CD85C477-FE68-4688-8852-D50290D04830}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "SystemSentinel.Infrastructure", "SystemSentinel.Infrastructure", "{7C1A837B-586A-4002-AA1C-B3EF05A79244}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "SystemSentinel.Gateway", "SystemSentinel.Gateway", "{E28F4AE3-5018-4C22-BDA9-9C2C02904F8C}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "HealthCheckCore", "HealthCheckCore", "{673D0D1D-6C07-4A8A-A1A8-66BD15886B13}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Analytic", "Analytic", "{19CB7098-A38E-4F0D-A8B0-7A9CD9BBB253}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AFD2711A-92EA-405D-9752-156487F2BB4D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AFD2711A-92EA-405D-9752-156487F2BB4D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AFD2711A-92EA-405D-9752-156487F2BB4D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AFD2711A-92EA-405D-9752-156487F2BB4D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E0473417-6E1E-4E12-A5FB-C774F7EF8BAC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E0473417-6E1E-4E12-A5FB-C774F7EF8BAC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E0473417-6E1E-4E12-A5FB-C774F7EF8BAC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E0473417-6E1E-4E12-A5FB-C774F7EF8BAC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{F80C4502-42FB-40FC-A649-6CE5F461A8D6} = {E18F2F3A-F01C-40AE-9289-F089FD6F8DA3}
+		{AFD2711A-92EA-405D-9752-156487F2BB4D} = {F80C4502-42FB-40FC-A649-6CE5F461A8D6}
+		{0F4FCE44-AC25-41E3-8D68-C63EFD4E8007} = {31BFE315-2A6A-42A4-824E-E18F84D3B2E8}
+		{E0473417-6E1E-4E12-A5FB-C774F7EF8BAC} = {0F4FCE44-AC25-41E3-8D68-C63EFD4E8007}
+		{4B0D6150-856B-4642-86E3-ADDBD3A13BE8} = {31BFE315-2A6A-42A4-824E-E18F84D3B2E8}
+		{60D8C82A-A8E1-49E5-8590-1D5CC4421CF0} = {31BFE315-2A6A-42A4-824E-E18F84D3B2E8}
+		{CD85C477-FE68-4688-8852-D50290D04830} = {E2196A4D-1AAF-4B68-B743-7337895ADAFC}
+		{673D0D1D-6C07-4A8A-A1A8-66BD15886B13} = {E2196A4D-1AAF-4B68-B743-7337895ADAFC}
+		{19CB7098-A38E-4F0D-A8B0-7A9CD9BBB253} = {E2196A4D-1AAF-4B68-B743-7337895ADAFC}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6B98455D-3098-42DF-906F-D7FFC9D9E1EB}
+	EndGlobalSection
+EndGlobal

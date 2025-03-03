@@ -1,0 +1,9 @@
+D:\Projects\GitProject\HealthCheck\src\HealthCheck.Host\Web\obj\Debug\net7.0\SystemSentinel.Web.csproj.AssemblyReference.cache
+D:\Projects\GitProject\HealthCheck\src\HealthCheck.Host\Web\obj\Debug\net7.0\SystemSentinel.Web.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\GitProject\HealthCheck\src\HealthCheck.Host\Web\obj\Debug\net7.0\SystemSentinel.Web.AssemblyInfoInputs.cache
+D:\Projects\GitProject\HealthCheck\src\HealthCheck.Host\Web\obj\Debug\net7.0\SystemSentinel.Web.AssemblyInfo.cs
+D:\Projects\GitProject\HealthCheck\src\HealthCheck.Host\Web\obj\Debug\net7.0\SystemSentinel.Web.csproj.CoreCompileInputs.cache
+D:\Projects\GitProject\HealthCheck\src\HealthCheck.Host\Web\obj\Debug\net7.0\SystemSentinel.Web.MvcApplicationPartsAssemblyInfo.cs
+D:\Projects\GitProject\HealthCheck\src\HealthCheck.Host\Web\obj\Debug\net7.0\SystemSentinel.Web.MvcApplicationPartsAssemblyInfo.cache
+D:\Projects\GitProject\HealthCheck\src\HealthCheck.Host\Web\obj\Debug\net7.0\SystemSentinel.Web.RazorAssemblyInfo.cache
+D:\Projects\GitProject\HealthCheck\src\HealthCheck.Host\Web\obj\Debug\net7.0\SystemSentinel.Web.RazorAssemblyInfo.cs

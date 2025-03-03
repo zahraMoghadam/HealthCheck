@@ -1,0 +1,63 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32819.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "HealthCheck.Shared", "HealthCheck.Shared", "{65A33617-7C84-4A69-A22E-4475EE1C33FB}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Common", "Common", "{14A18164-B6B6-4CD0-80E0-2FEE2ECDB5D8}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Security", "Security", "{68F91D0F-1A31-407C-9EEC-6E01094AD2C2}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Monitoring", "Monitoring", "{A8DE6A80-CCD8-4ADA-A644-220C78E6D5BD}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HealthCheck.Common", "HealthCheck.Shared\Common\HealthCheck.Common\HealthCheck.Common.csproj", "{E9221268-E38E-47BB-9190-5284D0AA00A6}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "HealthCheck.Host", "HealthCheck.Host", "{4C0CED6D-5D87-42FA-90B6-2CBA36ED7F7E}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HealchCheck.Web", "HealthCheck.Host\HealchCheck.Web.csproj", "{0EAA28F0-A10A-4009-8D3B-268B5AD16173}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "HealthCheck.Modules", "HealthCheck.Modules", "{1916713B-32E5-4FC0-BF85-C3829658CBD5}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Analytics", "Analytics", "{BB08B717-AB85-4D68-B110-DD80F8E8BDEB}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Module", "Module", "{1CDEDCCB-843E-4EA4-9311-BCD39D94F3C8}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "CoreHealthCheck", "CoreHealthCheck", "{28CF9D3E-B58D-49A0-9367-9134EF695B18}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "HealthCheck.Gateway", "HealthCheck.Gateway", "{597FF193-72FC-4B77-A5B0-18A5B0557E70}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "HealthCheck.Infrastructure", "HealthCheck.Infrastructure", "{6A4DA3B0-3C7D-4496-8A08-87D40A3A6742}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E9221268-E38E-47BB-9190-5284D0AA00A6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E9221268-E38E-47BB-9190-5284D0AA00A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E9221268-E38E-47BB-9190-5284D0AA00A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E9221268-E38E-47BB-9190-5284D0AA00A6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0EAA28F0-A10A-4009-8D3B-268B5AD16173}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0EAA28F0-A10A-4009-8D3B-268B5AD16173}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0EAA28F0-A10A-4009-8D3B-268B5AD16173}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0EAA28F0-A10A-4009-8D3B-268B5AD16173}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{14A18164-B6B6-4CD0-80E0-2FEE2ECDB5D8} = {65A33617-7C84-4A69-A22E-4475EE1C33FB}
+		{68F91D0F-1A31-407C-9EEC-6E01094AD2C2} = {65A33617-7C84-4A69-A22E-4475EE1C33FB}
+		{A8DE6A80-CCD8-4ADA-A644-220C78E6D5BD} = {65A33617-7C84-4A69-A22E-4475EE1C33FB}
+		{E9221268-E38E-47BB-9190-5284D0AA00A6} = {14A18164-B6B6-4CD0-80E0-2FEE2ECDB5D8}
+		{0EAA28F0-A10A-4009-8D3B-268B5AD16173} = {4C0CED6D-5D87-42FA-90B6-2CBA36ED7F7E}
+		{BB08B717-AB85-4D68-B110-DD80F8E8BDEB} = {1916713B-32E5-4FC0-BF85-C3829658CBD5}
+		{1CDEDCCB-843E-4EA4-9311-BCD39D94F3C8} = {1916713B-32E5-4FC0-BF85-C3829658CBD5}
+		{28CF9D3E-B58D-49A0-9367-9134EF695B18} = {1916713B-32E5-4FC0-BF85-C3829658CBD5}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C5619B75-B9D5-43C4-8466-6CDCD54C5615}
+	EndGlobalSection
+EndGlobal
