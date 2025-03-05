@@ -1,0 +1,167 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Projects\\GitProject\\HealthCheck\\src\\SystemSentinel.Host\\Web\\SystemSentinel.csproj": {}
+  },
+  "projects": {
+    "D:\\Projects\\GitProject\\HealthCheck\\src\\SystemSentinel.Host\\Web\\SystemSentinel.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Projects\\GitProject\\HealthCheck\\src\\SystemSentinel.Host\\Web\\SystemSentinel.csproj",
+        "projectName": "SystemSentinel",
+        "projectPath": "D:\\Projects\\GitProject\\HealthCheck\\src\\SystemSentinel.Host\\Web\\SystemSentinel.csproj",
+        "packagesPath": "D:\\Projects\\Git Project\\.nuget\\packages",
+        "outputPath": "D:\\Projects\\GitProject\\HealthCheck\\src\\SystemSentinel.Host\\Web\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\1171297645\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "D:\\Projects\\GitProject\\.nuget\\packages": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "AspNetCore.HealthChecks": {
+              "target": "Package",
+              "version": "[1.0.0, )"
+            },
+            "AspNetCore.HealthChecks.Prometheus.Metrics": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "AspNetCore.HealthChecks.Publisher.ApplicationInsights": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "AspNetCore.HealthChecks.Publisher.CloudWatch": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "AspNetCore.HealthChecks.Publisher.Datadog": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "AspNetCore.HealthChecks.Publisher.Prometheus": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "AspNetCore.HealthChecks.Publisher.Seq": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "AspNetCore.HealthChecks.Redis": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "AspNetCore.HealthChecks.SqlServer": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "AspNetCore.HealthChecks.UI": {
+              "target": "Package",
+              "version": "[7.0.2, )"
+            },
+            "AspNetCore.HealthChecks.UI.Client": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "AspNetCore.HealthChecks.UI.InMemory.Storage": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "AspNetCore.HealthChecks.Uris": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.36, )"
+            },
+            "Microsoft.AspNetCore.Http.Abstractions": {
+              "target": "Package",
+              "version": "[2.0.1, )"
+            },
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.36, )"
+            },
+            "Microsoft.AspNetCore.Identity.UI": {
+              "target": "Package",
+              "version": "[6.0.36, )"
+            },
+            "Microsoft.Bcl.AsyncInterfaces": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[6.0.36, )"
+            },
+            "Microsoft.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "Microsoft.Extensions.Diagnostics.HealthChecks": {
+              "target": "Package",
+              "version": "[7.0.9, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[5.6.3, )"
+            },
+            "prometheus-net": {
+              "target": "Package",
+              "version": "[8.0.1, )"
+            },
+            "prometheus-net.AspNetCore": {
+              "target": "Package",
+              "version": "[8.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

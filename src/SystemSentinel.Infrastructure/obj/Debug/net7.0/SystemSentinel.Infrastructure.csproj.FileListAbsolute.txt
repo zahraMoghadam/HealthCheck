@@ -1,0 +1,12 @@
+D:\Projects\GitProject\HealthCheck\src\SystemSentinel.Infrastructure\bin\Debug\net7.0\SystemSentinel.Infrastructure.deps.json
+D:\Projects\GitProject\HealthCheck\src\SystemSentinel.Infrastructure\bin\Debug\net7.0\SystemSentinel.Infrastructure.dll
+D:\Projects\GitProject\HealthCheck\src\SystemSentinel.Infrastructure\bin\Debug\net7.0\SystemSentinel.Infrastructure.pdb
+D:\Projects\GitProject\HealthCheck\src\SystemSentinel.Infrastructure\obj\Debug\net7.0\SystemSentinel.Infrastructure.csproj.AssemblyReference.cache
+D:\Projects\GitProject\HealthCheck\src\SystemSentinel.Infrastructure\obj\Debug\net7.0\SystemSentinel.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\GitProject\HealthCheck\src\SystemSentinel.Infrastructure\obj\Debug\net7.0\SystemSentinel.Infrastructure.AssemblyInfoInputs.cache
+D:\Projects\GitProject\HealthCheck\src\SystemSentinel.Infrastructure\obj\Debug\net7.0\SystemSentinel.Infrastructure.AssemblyInfo.cs
+D:\Projects\GitProject\HealthCheck\src\SystemSentinel.Infrastructure\obj\Debug\net7.0\SystemSentinel.Infrastructure.csproj.CoreCompileInputs.cache
+D:\Projects\GitProject\HealthCheck\src\SystemSentinel.Infrastructure\obj\Debug\net7.0\SystemSentinel.Infrastructure.dll
+D:\Projects\GitProject\HealthCheck\src\SystemSentinel.Infrastructure\obj\Debug\net7.0\refint\SystemSentinel.Infrastructure.dll
+D:\Projects\GitProject\HealthCheck\src\SystemSentinel.Infrastructure\obj\Debug\net7.0\SystemSentinel.Infrastructure.pdb
+D:\Projects\GitProject\HealthCheck\src\SystemSentinel.Infrastructure\obj\Debug\net7.0\ref\SystemSentinel.Infrastructure.dll

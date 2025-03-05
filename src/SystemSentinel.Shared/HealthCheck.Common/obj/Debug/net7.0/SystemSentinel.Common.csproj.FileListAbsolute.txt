@@ -1,0 +1,12 @@
+D:\Projects\GitProject\HealthCheck\src\SystemSentinel.Shared\HealthCheck.Common\bin\Debug\net7.0\SystemSentinel.Common.deps.json
+D:\Projects\GitProject\HealthCheck\src\SystemSentinel.Shared\HealthCheck.Common\bin\Debug\net7.0\SystemSentinel.Common.dll
+D:\Projects\GitProject\HealthCheck\src\SystemSentinel.Shared\HealthCheck.Common\bin\Debug\net7.0\SystemSentinel.Common.pdb
+D:\Projects\GitProject\HealthCheck\src\SystemSentinel.Shared\HealthCheck.Common\obj\Debug\net7.0\SystemSentinel.Common.csproj.AssemblyReference.cache
+D:\Projects\GitProject\HealthCheck\src\SystemSentinel.Shared\HealthCheck.Common\obj\Debug\net7.0\SystemSentinel.Common.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\GitProject\HealthCheck\src\SystemSentinel.Shared\HealthCheck.Common\obj\Debug\net7.0\SystemSentinel.Common.AssemblyInfoInputs.cache
+D:\Projects\GitProject\HealthCheck\src\SystemSentinel.Shared\HealthCheck.Common\obj\Debug\net7.0\SystemSentinel.Common.AssemblyInfo.cs
+D:\Projects\GitProject\HealthCheck\src\SystemSentinel.Shared\HealthCheck.Common\obj\Debug\net7.0\SystemSentinel.Common.csproj.CoreCompileInputs.cache
+D:\Projects\GitProject\HealthCheck\src\SystemSentinel.Shared\HealthCheck.Common\obj\Debug\net7.0\SystemSentinel.Common.dll
+D:\Projects\GitProject\HealthCheck\src\SystemSentinel.Shared\HealthCheck.Common\obj\Debug\net7.0\refint\SystemSentinel.Common.dll
+D:\Projects\GitProject\HealthCheck\src\SystemSentinel.Shared\HealthCheck.Common\obj\Debug\net7.0\SystemSentinel.Common.pdb
+D:\Projects\GitProject\HealthCheck\src\SystemSentinel.Shared\HealthCheck.Common\obj\Debug\net7.0\ref\SystemSentinel.Common.dll
