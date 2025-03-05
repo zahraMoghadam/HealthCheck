@@ -1,11 +1,30 @@
 {
   "version": 3,
   "targets": {
-    "net7.0": {}
+    "net7.0": {
+      "SystemSentinel.BaseHealthCheck.Module/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "compile": {
+          "bin/placeholder/SystemSentinel.BaseHealthCheck.Module.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/SystemSentinel.BaseHealthCheck.Module.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "SystemSentinel.BaseHealthCheck.Module/1.0.0": {
+      "type": "project",
+      "path": "../BaseHealthCheckModule/SystemSentinel.BaseHealthCheck.Module.csproj",
+      "msbuildProject": "../BaseHealthCheckModule/SystemSentinel.BaseHealthCheck.Module.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    "net7.0": []
+    "net7.0": [
+      "SystemSentinel.BaseHealthCheck.Module >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "D:\\Projects\\Git Project\\.nuget\\packages": {},
@@ -37,7 +56,11 @@
       "frameworks": {
         "net7.0": {
           "targetAlias": "net7.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "D:\\Projects\\GitProject\\HealthCheck\\src\\SystemSentinel.Module\\BaseHealthCheckModule\\SystemSentinel.BaseHealthCheck.Module.csproj": {
+              "projectPath": "D:\\Projects\\GitProject\\HealthCheck\\src\\SystemSentinel.Module\\BaseHealthCheckModule\\SystemSentinel.BaseHealthCheck.Module.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

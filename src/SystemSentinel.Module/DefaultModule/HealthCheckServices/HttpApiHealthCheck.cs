@@ -1,4 +1,7 @@
-﻿using SystemSentinel.Core.Module;
+﻿
+
+using SystemSentinel.BaseHealthCheck.Module;
+
 
 namespace SystemSentinel.Default.HealthCheckModule.HealthCheckServices
 {
@@ -13,12 +16,16 @@ namespace SystemSentinel.Default.HealthCheckModule.HealthCheckServices
             _apiUrl = apiUrl;
         }
 
-        public async Task<HealthCheckResult> CheckHealthAsync()
+        public string ModuleName => "API";
+
+        public string ProjectName => "Default";
+
+        public async Task<HealthCheckStatusResult> CheckHealthAsync()
         {
             try
             {
                 var response = await _httpClient.GetAsync(_apiUrl);
-                return new HealthCheckResult
+                return new HealthCheckStatusResult
                 {
                     IsHealthy = response.IsSuccessStatusCode,
                     StatusCode = response.StatusCode
@@ -26,7 +33,7 @@ namespace SystemSentinel.Default.HealthCheckModule.HealthCheckServices
             }
             catch (Exception ex)
             {
-                return new HealthCheckResult
+                return new HealthCheckStatusResult
                 {
                     IsHealthy = false,
                     ErrorMessage = ex.Message

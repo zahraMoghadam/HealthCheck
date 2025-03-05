@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace SystemSentinel.BaseHealthCheck.Module.Contracs
+namespace SystemSentinel.BaseHealthCheck.Module
 {
     public interface IHealthCheckModule
     {
@@ -12,4 +12,6 @@ namespace SystemSentinel.BaseHealthCheck.Module.Contracs
         string ModuleName { get; }
         string ProjectName { get; }
     }
+
+
 }
