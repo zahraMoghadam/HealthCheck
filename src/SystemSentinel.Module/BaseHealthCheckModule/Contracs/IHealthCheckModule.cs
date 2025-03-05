@@ -6,7 +6,10 @@ using System.Threading.Tasks;
 
 namespace SystemSentinel.BaseHealthCheck.Module.Contracs
 {
-    internal class IHealthCheckModule
+    public interface IHealthCheckModule
     {
+        Task<HealthCheckStatusResult> CheckHealthAsync();
+        string ModuleName { get; }
+        string ProjectName { get; }
     }
 }

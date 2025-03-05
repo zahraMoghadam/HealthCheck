@@ -8,4 +8,4 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = SystemSentinel.BaseHealthCheck.Module
-build_property.ProjectDir = D:\Projects\GitProject\HealthCheck\src\SystemSentinel.Module\CoreModule\SystemSentinel.Core.Module\
+build_property.ProjectDir = D:\Projects\GitProject\HealthCheck\src\SystemSentinel.Module\BaseHealthCheckModule\

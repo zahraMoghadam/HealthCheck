@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Projects\\GitProject\\HealthCheck\\src\\SystemSentinel.Module\\CoreModule\\SystemSentinel.Core.Module\\SystemSentinel.BaseHealthCheck.Module.csproj",
-      "projectName": "SystemSentinel.BaseHealthCheck.Module",
-      "projectPath": "D:\\Projects\\GitProject\\HealthCheck\\src\\SystemSentinel.Module\\CoreModule\\SystemSentinel.Core.Module\\SystemSentinel.BaseHealthCheck.Module.csproj",
+      "projectUniqueName": "D:\\Projects\\GitProject\\HealthCheck\\src\\SystemSentinel.Module\\DefaultModule\\SystemSentinel.Default.HealthCheckModule.csproj",
+      "projectName": "SystemSentinel.Default.HealthCheckModule",
+      "projectPath": "D:\\Projects\\GitProject\\HealthCheck\\src\\SystemSentinel.Module\\DefaultModule\\SystemSentinel.Default.HealthCheckModule.csproj",
       "packagesPath": "D:\\Projects\\Git Project\\.nuget\\packages",
-      "outputPath": "D:\\Projects\\GitProject\\HealthCheck\\src\\SystemSentinel.Module\\CoreModule\\SystemSentinel.Core.Module\\obj\\",
+      "outputPath": "D:\\Projects\\GitProject\\HealthCheck\\src\\SystemSentinel.Module\\DefaultModule\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

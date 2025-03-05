@@ -1,0 +1,5 @@
+D:\Projects\GitProject\HealthCheck\src\SystemSentinel.Module\DefaultModule\obj\Debug\net7.0\SystemSentinel.Default.HealthCheckModule.csproj.AssemblyReference.cache
+D:\Projects\GitProject\HealthCheck\src\SystemSentinel.Module\DefaultModule\obj\Debug\net7.0\SystemSentinel.Default.HealthCheckModule.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\GitProject\HealthCheck\src\SystemSentinel.Module\DefaultModule\obj\Debug\net7.0\SystemSentinel.Default.HealthCheckModule.AssemblyInfoInputs.cache
+D:\Projects\GitProject\HealthCheck\src\SystemSentinel.Module\DefaultModule\obj\Debug\net7.0\SystemSentinel.Default.HealthCheckModule.AssemblyInfo.cs
+D:\Projects\GitProject\HealthCheck\src\SystemSentinel.Module\DefaultModule\obj\Debug\net7.0\SystemSentinel.Default.HealthCheckModule.csproj.CoreCompileInputs.cache
