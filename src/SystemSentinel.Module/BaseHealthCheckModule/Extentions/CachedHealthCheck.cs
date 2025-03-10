@@ -44,8 +44,6 @@ namespace SystemSentinel.BaseHealthCheck.Module.Extentions
         {
             while (CacheExpiration <= UtcNow)
             {
-                // Can't use a standard lock here because of async, so we'll use this flag to determine when we should write a value,
-                // and the waiters who aren't allowed to write will just spin wait for the new value.
                 if (Interlocked.Exchange(ref _writerCount, 1) != 0)
                 {
                     await Task.Delay(5, cancellationToken).ConfigureAwait(false);
