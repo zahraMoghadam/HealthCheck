@@ -7240,7 +7240,8 @@
         "net6.0"
       ],
       "sources": {
-        "D:\\Projects\\GitProject\\.nuget\\packages": {}
+        "D:\\Projects\\GitProject\\.nuget\\packages": {},
+        "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "net6.0": {

@@ -16,9 +16,9 @@ namespace SystemSentinel.Default.HealthCheckModule.HealthCheckServices
             _apiUrl = apiUrl;
         }
 
-        public string ModuleName => "API";
+        public string ModuleName => "Default HealthCheck";
 
-        public string ProjectName => "Default";
+        public string ProjectName => "Api HealthCheck";
 
         public async Task<HealthCheckStatusResult> CheckHealthAsync()
         {

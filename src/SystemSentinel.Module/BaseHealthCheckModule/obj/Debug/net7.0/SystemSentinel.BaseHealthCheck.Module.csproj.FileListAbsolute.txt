@@ -1,0 +1,15 @@
+D:\Projects\GitProject\HealthCheck\src\SystemSentinel.Module\BaseHealthCheckModule\obj\Debug\net7.0\SystemSentinel.BaseHealthCheck.Module.csproj.AssemblyReference.cache
+D:\Projects\GitProject\HealthCheck\src\SystemSentinel.Module\BaseHealthCheckModule\obj\Debug\net7.0\SystemSentinel.BaseHealthCheck.Module.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\GitProject\HealthCheck\src\SystemSentinel.Module\BaseHealthCheckModule\obj\Debug\net7.0\SystemSentinel.BaseHealthCheck.Module.AssemblyInfoInputs.cache
+D:\Projects\GitProject\HealthCheck\src\SystemSentinel.Module\BaseHealthCheckModule\obj\Debug\net7.0\SystemSentinel.BaseHealthCheck.Module.AssemblyInfo.cs
+D:\Projects\GitProject\HealthCheck\src\SystemSentinel.Module\BaseHealthCheckModule\obj\Debug\net7.0\SystemSentinel.BaseHealthCheck.Module.csproj.CoreCompileInputs.cache
+D:\Projects\GitProject\HealthCheck\src\SystemSentinel.Module\BaseHealthCheckModule\bin\Debug\net7.0\SystemSentinel.BaseHealthCheck.Module.deps.json
+D:\Projects\GitProject\HealthCheck\src\SystemSentinel.Module\BaseHealthCheckModule\bin\Debug\net7.0\SystemSentinel.BaseHealthCheck.Module.dll
+D:\Projects\GitProject\HealthCheck\src\SystemSentinel.Module\BaseHealthCheckModule\bin\Debug\net7.0\SystemSentinel.BaseHealthCheck.Module.pdb
+D:\Projects\GitProject\HealthCheck\src\SystemSentinel.Module\BaseHealthCheckModule\bin\Debug\net7.0\SystemSentinel.Common.dll
+D:\Projects\GitProject\HealthCheck\src\SystemSentinel.Module\BaseHealthCheckModule\bin\Debug\net7.0\SystemSentinel.Common.pdb
+D:\Projects\GitProject\HealthCheck\src\SystemSentinel.Module\BaseHealthCheckModule\obj\Debug\net7.0\SystemSentinel.BaseHealthCheck.Module.csproj.CopyComplete
+D:\Projects\GitProject\HealthCheck\src\SystemSentinel.Module\BaseHealthCheckModule\obj\Debug\net7.0\SystemSentinel.BaseHealthCheck.Module.dll
+D:\Projects\GitProject\HealthCheck\src\SystemSentinel.Module\BaseHealthCheckModule\obj\Debug\net7.0\refint\SystemSentinel.BaseHealthCheck.Module.dll
+D:\Projects\GitProject\HealthCheck\src\SystemSentinel.Module\BaseHealthCheckModule\obj\Debug\net7.0\SystemSentinel.BaseHealthCheck.Module.pdb
+D:\Projects\GitProject\HealthCheck\src\SystemSentinel.Module\BaseHealthCheckModule\obj\Debug\net7.0\ref\SystemSentinel.BaseHealthCheck.Module.dll

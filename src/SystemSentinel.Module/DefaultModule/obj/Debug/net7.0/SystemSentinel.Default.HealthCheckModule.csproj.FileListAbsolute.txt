@@ -3,3 +3,15 @@ D:\Projects\GitProject\HealthCheck\src\SystemSentinel.Module\DefaultModule\obj\D
 D:\Projects\GitProject\HealthCheck\src\SystemSentinel.Module\DefaultModule\obj\Debug\net7.0\SystemSentinel.Default.HealthCheckModule.AssemblyInfoInputs.cache
 D:\Projects\GitProject\HealthCheck\src\SystemSentinel.Module\DefaultModule\obj\Debug\net7.0\SystemSentinel.Default.HealthCheckModule.AssemblyInfo.cs
 D:\Projects\GitProject\HealthCheck\src\SystemSentinel.Module\DefaultModule\obj\Debug\net7.0\SystemSentinel.Default.HealthCheckModule.csproj.CoreCompileInputs.cache
+D:\Projects\GitProject\HealthCheck\src\SystemSentinel.Module\DefaultModule\bin\Debug\net7.0\SystemSentinel.Default.HealthCheckModule.deps.json
+D:\Projects\GitProject\HealthCheck\src\SystemSentinel.Module\DefaultModule\bin\Debug\net7.0\SystemSentinel.Default.HealthCheckModule.dll
+D:\Projects\GitProject\HealthCheck\src\SystemSentinel.Module\DefaultModule\bin\Debug\net7.0\SystemSentinel.Default.HealthCheckModule.pdb
+D:\Projects\GitProject\HealthCheck\src\SystemSentinel.Module\DefaultModule\bin\Debug\net7.0\SystemSentinel.BaseHealthCheck.Module.dll
+D:\Projects\GitProject\HealthCheck\src\SystemSentinel.Module\DefaultModule\bin\Debug\net7.0\SystemSentinel.Common.dll
+D:\Projects\GitProject\HealthCheck\src\SystemSentinel.Module\DefaultModule\bin\Debug\net7.0\SystemSentinel.BaseHealthCheck.Module.pdb
+D:\Projects\GitProject\HealthCheck\src\SystemSentinel.Module\DefaultModule\bin\Debug\net7.0\SystemSentinel.Common.pdb
+D:\Projects\GitProject\HealthCheck\src\SystemSentinel.Module\DefaultModule\obj\Debug\net7.0\SystemSentinel.Default.HealthCheckModule.csproj.CopyComplete
+D:\Projects\GitProject\HealthCheck\src\SystemSentinel.Module\DefaultModule\obj\Debug\net7.0\SystemSentinel.Default.HealthCheckModule.dll
+D:\Projects\GitProject\HealthCheck\src\SystemSentinel.Module\DefaultModule\obj\Debug\net7.0\refint\SystemSentinel.Default.HealthCheckModule.dll
+D:\Projects\GitProject\HealthCheck\src\SystemSentinel.Module\DefaultModule\obj\Debug\net7.0\SystemSentinel.Default.HealthCheckModule.pdb
+D:\Projects\GitProject\HealthCheck\src\SystemSentinel.Module\DefaultModule\obj\Debug\net7.0\ref\SystemSentinel.Default.HealthCheckModule.dll

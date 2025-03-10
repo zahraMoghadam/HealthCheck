@@ -9,9 +9,9 @@ namespace SystemSentinel.Default.HealthCheckModule.HealthCheckServices
 {
     public class LinkHealthCheckModule : IHealthCheckModule
     {
-        public string ModuleName => "Link Health";
+        public string ModuleName => "Default HealthCheck";
 
-        public string ProjectName => "Default";
+        public string ProjectName => "Link Health";
 
         public async Task<HealthCheckStatusResult> CheckHealthAsync()
         {

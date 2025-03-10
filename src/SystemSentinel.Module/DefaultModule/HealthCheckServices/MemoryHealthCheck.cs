@@ -9,9 +9,9 @@ namespace SystemSentinel.Default.HealthCheckModule.HealthCheckServices
 {
     public class MemoryHealthCheckModule : IHealthCheckModule
     {
-        public string ModuleName => "Memory Health";
+        public string ModuleName => "Default HealthCheck";
 
-        public string ProjectName =>"Default";
+        public string ProjectName => "Memory HealthCheck";
 
         public async Task<HealthCheckStatusResult> CheckHealthAsync()
         {
